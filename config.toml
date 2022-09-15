@@ -1,6 +1,6 @@
-baseURL = "https://saintmalik.me"
+baseURL = "https://nomanaziz.me"
 languageCode = "en-us"
-title = "SaintMalik"
+title = "NomanAziz"
 paginate     = 10
 googleAnalytics = "UA-123518521-4"
 disqusShortname = "myfoliosite"
@@ -10,16 +10,16 @@ disqusShortname = "myfoliosite"
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04 -0700"
-  ProfilePicture = "../images/saintmalik2.jpeg"
+  ProfilePicture = "../images/nomanaziz2.jpeg"
 
   # Subtitle for home
-  homeSubtitle = "Doing Pentesting and Application Security"
+  homeSubtitle = "DevSecOps Engineer and Cyber Security Researcher"
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
 
   # Metadata mostly used in document's head
-  description = "SaintMalik | Application Security Engineer | Bug Bounty Hunter | Penetration Tester | Bash, Golang | Security Engineer"
+  description = "NomanAziz | DevSecOps Engineer | AWS, GCP | Cyber Security Researcher"
   images = [""]
 
   enableRobotsTXT = true
@@ -44,7 +44,7 @@ disqusShortname = "myfoliosite"
   customJS  = []
 
 [author]
-  name = "SaintMalik"
+  name = "NomanAziz"
 
 [permalinks]
   posts = "/:slug"
@@ -56,14 +56,14 @@ disqusShortname = "myfoliosite"
 
 [languages]
   [languages.en]
-    title = "SaintMalik"
-    subtitle = "Application Security Engineer, Penetration Tester and Bug Bounty Hunter"
+    title = "NomanAziz"
+    subtitle = "DevSecOps Engineer and Cyber Security Researcher"
     keywords = ""
     copyright = ""
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "~/saintmalik"
+      logoText = "~/nomanaziz"
       logoHomeLink = "/"
     # or
     #
@@ -72,51 +72,51 @@ disqusShortname = "myfoliosite"
 
     # Social icons
   [[languages.en.params.social]]
-    name = "twitter"
-    url  = "https://twitter.com/saintmalik_"
+    name = "linkedin"
+    url  = "https://linkedin.com/in/noman-aziz"
 
   [[languages.en.params.social]]
     name = "email"
-    url  = "mailto:msalawu5@gmail.com"
+    url  = "mailto:REDACTED"
 
   [[languages.en.params.social]]
     name = "github"
-    url  = "https://github.com/saintmalik"
+    url  = "https://github.com/noman-aziz"
 
     # You can create a language based menu
     [languages.en.menu]
       [[languages.en.menu.main]]
         identifier = "blog"
         name = "Blog"
-        url = "https://blog.saintmalik.me"
-      [[languages.en.menu.main]]
-        identifier = "talks"
-        name = "Talks"
-        url = "/talks"
+        url = "https://blog.nomanaziz.me"
       [[languages.en.menu.main]]
         identifier = "about"
-        name = "Who am i"
+        name = "About me"
         url = "/about"
+      [[languages.en.menu.main]]
+        identifier = "skills"
+        name       = "Skills"
+        url        = "/skills"
       [[languages.en.menu.main]]
         identifier = "resume"
         name       = "Resume"
-        url        = "https://docs.google.com/document/d/1q0NQV-D_HZPc92cVaLe3ojAZCm_1l6Eb6duu6l7ddpE/"
+        url        = "/resume"
 
 # And you can even create generic menu
 [menu]
   [[menu.main]]
     identifier = "blog"
     name       = "Blog"
-    url        = "https://blog.saintmalik.me"
+    url        = "https://blog.nomanaziz.me"
   [[menu.main]]
-    identifier = "talks"
-    name       = "Talks"
-    url        = "/talks"
-  [[menu.main]]
-    identifier = "who am i"
-    name       = "Who am i"
+    identifier = "about"
+    name       = "About me"
     url        = "/about"
+  [[menu.main]]
+    identifier = "skills"
+    name       = "Skills"
+    url        = "/skills"
   [[menu.main]]
     identifier = "resume"
     name       = "Resume"
-    url        = "https://docs.google.com/document/d/1q0NQV-D_HZPc92cVaLe3ojAZCm_1l6Eb6duu6l7ddpE/"
+    url        = "/resume"

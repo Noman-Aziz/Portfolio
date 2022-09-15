@@ -165,4 +165,4 @@ Disallow: /
 User-agent: megaIndex.ru
 Disallow: /
 
-Sitemap: https://saintmalik.me/sitemap.xml
+Sitemap: https://nomanaziz.me/sitemap.xml
