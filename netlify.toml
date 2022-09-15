@@ -1,35 +1,17 @@
 [[redirects]]
 from = "/posts/"
-to = "https://blog.saintmalik.me"
+to = "https://blog.nomanaziz.me"
 status = 301
 force = true
 
 [[redirects]]
-from = "https://saintmalik.me/posts"
-to = "https://blog.saintmalik.me"
+from = "https://nomanaziz.me/posts"
+to = "https://blog.nomanaziz.me"
 status = 301
 force = true
 
 [[redirects]]
 from = "/blog/"
-to = "https://blog.saintmalik.me"
+to = "https://blog.nomanaziz.me"
 status = 301
 force = true
-
-# [[redirects]]
-# from = "/bypassing-auth-by-reading-source-code/"
-# to = "https://blog.saintmalik.me/bypassing-auth-by-reading-source-code"
-# status = 301
-# force = true
-
-# [[redirects]]
-# from = "/how-i-found-my-first-bug/"
-# to = "https://blog.saintmalik.me/how-i-found-my-first-bug"
-# status = 301
-# force = true
-
-# [[redirects]]
-# from = "/example-post/"
-# to = "https://blog.saintmalik.me/hello-world"
-# status = 301
-# force = true
