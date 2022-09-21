@@ -98,9 +98,9 @@ disqusShortname = "myfoliosite"
         name       = "Skills"
         url        = "/skills"
       [[languages.en.menu.main]]
-        identifier = "resume"
-        name       = "Resume"
-        url        = "/resume"
+        identifier = "achievements"
+        name       = "Achievements"
+        url        = "/achievements"
 
 # And you can even create generic menu
 [menu]
@@ -117,6 +117,6 @@ disqusShortname = "myfoliosite"
     name       = "Skills"
     url        = "/skills"
   [[menu.main]]
-    identifier = "resume"
-    name       = "Resume"
-    url        = "/resume"
+    identifier = "achievements"
+    name       = "Achievements"
+    url        = "/achievements"
