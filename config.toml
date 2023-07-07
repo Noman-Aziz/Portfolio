@@ -90,6 +90,10 @@ disqusShortname = "myfoliosite"
         name = "Blog"
         url = "https://blog.nomanaziz.me"
       [[languages.en.menu.main]]
+        identifier = "notes"
+        name = "Notes"
+        url = "https://notes.nomanaziz.me"
+      [[languages.en.menu.main]]
         identifier = "about"
         name = "About me"
         url = "/about"
@@ -108,6 +112,10 @@ disqusShortname = "myfoliosite"
     identifier = "blog"
     name       = "Blog"
     url        = "https://blog.nomanaziz.me"
+  [[menu.main]]
+    identifier = "notes"
+    name       = "Notes"
+    url        = "https://notes.nomanaziz.me"    
   [[menu.main]]
     identifier = "about"
     name       = "About me"
