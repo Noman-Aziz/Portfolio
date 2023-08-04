@@ -13,7 +13,7 @@ disqusShortname = "myfoliosite"
   ProfilePicture = "../images/nomanaziz2.jpeg"
 
   # Subtitle for home
-  homeSubtitle = "FullStack Web3 Developer | DevSecOps"
+  homeSubtitle = "Software Engineer | DevSecOps"
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
@@ -57,7 +57,7 @@ disqusShortname = "myfoliosite"
 [languages]
   [languages.en]
     title = "NomanAziz"
-    subtitle = "FullStack Web3 Developer | DevSecOps"
+    subtitle = "Software Engineer | DevSecOps"
     keywords = ""
     copyright = ""
     readOtherPosts = "Read other posts"
