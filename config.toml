@@ -95,7 +95,7 @@ disqusShortname = "myfoliosite"
         url = "https://notes.nomanaziz.me"
       [[languages.en.menu.main]]
         identifier = "about"
-        name = "About me"
+        name = "About"
         url = "/about"
       [[languages.en.menu.main]]
         identifier = "skills"
@@ -122,7 +122,7 @@ disqusShortname = "myfoliosite"
     url        = "https://notes.nomanaziz.me"    
   [[menu.main]]
     identifier = "about"
-    name       = "About me"
+    name       = "About"
     url        = "/about"
   [[menu.main]]
     identifier = "skills"
