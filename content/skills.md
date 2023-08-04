@@ -11,7 +11,7 @@ aliases = ["skills","certifications"]
 
 ---
 
-### Software Development
+> ### Software Development
 
 ---
 
@@ -38,9 +38,16 @@ aliases = ["skills","certifications"]
 - Jest, Cypress, Swagger
 ```
 
+#### Databases
+```
+- MongoDB
+- PostgreSQL
+- Google Firebase
+```
+
 ---
 
-### DevSecOps
+> ### DevSecOps
 
 ---
 
@@ -112,7 +119,7 @@ aliases = ["skills","certifications"]
 
 ---
 
-### Blue Teaming
+> ### Blue Teaming
 
 ---
 
@@ -158,7 +165,7 @@ aliases = ["skills","certifications"]
 
 ---
 
-### Ethical Hacking & Penetration Testing
+> ### Ethical Hacking & Penetration Testing
 
 ---
 
