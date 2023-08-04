@@ -11,7 +11,9 @@ aliases = ["skills","certifications"]
 
 ---
 
-> ### Software Development
+<p align="center">
+### Software Development
+</p>
 
 ---
 
@@ -47,7 +49,9 @@ aliases = ["skills","certifications"]
 
 ---
 
-> ### DevSecOps
+<p align="center">
+### DevSecOps
+</p>
 
 ---
 
@@ -119,7 +123,9 @@ aliases = ["skills","certifications"]
 
 ---
 
-> ### Blue Teaming
+<p align="center">
+### Blue Teaming
+</p>
 
 ---
 
@@ -165,7 +171,9 @@ aliases = ["skills","certifications"]
 
 ---
 
-> ### Ethical Hacking & Penetration Testing
+<p align="center">
+### Ethical Hacking & Penetration Testing
+</p>
 
 ---
 
