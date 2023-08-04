@@ -11,9 +11,7 @@ aliases = ["skills","certifications"]
 
 ---
 
-<p align="center">
 ### Software Development
-</p>
 
 ---
 
@@ -47,11 +45,11 @@ aliases = ["skills","certifications"]
 - Google Firebase
 ```
 
+<br><br>
+
 ---
 
-<p align="center">
 ### DevSecOps
-</p>
 
 ---
 
@@ -121,11 +119,11 @@ aliases = ["skills","certifications"]
 - VPNs
 ```
 
+<br><br>
+
 ---
 
-<p align="center">
 ### Blue Teaming
-</p>
 
 ---
 
@@ -169,11 +167,11 @@ aliases = ["skills","certifications"]
 - ModSecurity
 ```
 
+<br><br>
+
 ---
 
-<p align="center">
 ### Ethical Hacking & Penetration Testing
-</p>
 
 ---
 
