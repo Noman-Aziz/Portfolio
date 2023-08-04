@@ -102,6 +102,10 @@ disqusShortname = "myfoliosite"
         name       = "Skills"
         url        = "/skills"
       [[languages.en.menu.main]]
+        identifier = "certifications"
+        name       = "Certifications"
+        url        = "/certifications"        
+      [[languages.en.menu.main]]
         identifier = "achievements"
         name       = "Achievements"
         url        = "/achievements"
@@ -124,6 +128,10 @@ disqusShortname = "myfoliosite"
     identifier = "skills"
     name       = "Skills"
     url        = "/skills"
+  [[menu.main]]
+    identifier = "certifications"
+    name       = "Certifications"
+    url        = "/certifications"    
   [[menu.main]]
     identifier = "achievements"
     name       = "Achievements"

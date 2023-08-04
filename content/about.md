@@ -1,7 +1,7 @@
 +++
 title = "About Me"
-description = "NomanAziz | DevSecOps Engineer | AWS, GCP | Cyber Security Researcher"
-date = "2023-05-02"
+description = "NomanAziz | DevSecOps | AWS Certified | MERN | Blockchain | Go"
+date = "2023-08-04"
 aliases = ["about-us","about-me","contact"]
 [ author ]
   name = "NomanAziz"
