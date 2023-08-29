@@ -2,7 +2,7 @@ baseURL = "https://nomanaziz.me"
 languageCode = "en-us"
 title = "NomanAziz"
 paginate     = 10
-googleAnalytics = "UA-123518521-4"
+googleAnalytics = "G-X49WS8ZPYT"
 disqusShortname = "myfoliosite"
 
 [params]
