@@ -13,13 +13,13 @@ disqusShortname = "myfoliosite"
   ProfilePicture = "../images/nomanaziz2.jpg"
 
   # Subtitle for home
-  homeSubtitle = "Software Engineer | Cyber Security Enthusiast"
+  homeSubtitle = "Security Engineer | MERN | DevSecOps"
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
 
   # Metadata mostly used in document's head
-  description = "NomanAziz | Blockchain | MERN | DevSecOps | AWS Certified | Go"
+  description = "NomanAziz | Security Engineer | MERN | DevSecOps | AWS Certified"
   images = [""]
 
   enableRobotsTXT = true
@@ -57,7 +57,7 @@ disqusShortname = "myfoliosite"
 [languages]
   [languages.en]
     title = "NomanAziz"
-    subtitle = "Software Engineer | DevSecOps"
+    subtitle = "Security Engineer | MERN | DevSecOps"
     keywords = ""
     copyright = ""
     readOtherPosts = "Read other posts"

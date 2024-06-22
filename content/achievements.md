@@ -1,23 +1,11 @@
 +++
 title = ""
-description = "NomanAziz | DevSecOps Engineer | AWS, GCP | Cyber Security Researcher"
-date = "2023-08-04"
+description = "NomanAziz | Security Engineer | MERN | DevSecOps | AWS Certified"
+date = "2024-06-22"
 aliases = ["achievements","accomplishments"]
 [ author ]
   name = "NomanAziz"
 +++
-
-## **Open Source Contributions**
-
----
-
-#### Pylons-tech/[multisig-ui](https://github.com/Pylons-tech/multisig-ui)
-![contributor](https://res.cloudinary.com/dy09028kh/image/upload/v1667728859/2022-11-06_15-00_cuodl1.png)
-
-#### spotDL/[spotify-downloader](https://github.com/spotDL/spotify-downloader)
-![contributor](https://res.cloudinary.com/dy09028kh/image/upload/v1663738394/Ba8dRpV_ggqkt6.png)
-
-<br><br>
 
 ## **Accomplishments**
 
@@ -45,3 +33,15 @@ aliases = ["achievements","accomplishments"]
 > Got 6th/45 position in Application Exploitation (Including Web)
 > Got 4th/35 position in Speed Programming
 ```
+
+<br><br>
+
+## **Open Source Contributions**
+
+---
+
+#### Pylons-tech/[multisig-ui](https://github.com/Pylons-tech/multisig-ui)
+![contributor](https://res.cloudinary.com/dy09028kh/image/upload/v1667728859/2022-11-06_15-00_cuodl1.png)
+
+#### spotDL/[spotify-downloader](https://github.com/spotDL/spotify-downloader)
+![contributor](https://res.cloudinary.com/dy09028kh/image/upload/v1663738394/Ba8dRpV_ggqkt6.png)
