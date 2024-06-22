@@ -1,17 +1,13 @@
 +++
 title = "About Me"
-description = "NomanAziz | DevSecOps | AWS Certified | MERN | Blockchain | Go"
-date = "2024-04-03"
+description = "NomanAziz | Security Engineer | MERN | DevSecOps | AWS Certified"
+date = "2024-06-22"
 aliases = ["about-us","about-me","contact"]
 [ author ]
   name = "NomanAziz"
 +++
 
-I’m a motivated and passionate Software Developer with expertise as a DevSecOps Engineer and Penetration Tester.
-
-As a Software Developer, i write efficient and secure code by following best coding standards. My technology stack includes but is not limited to Blockchain (Solidity), NodeJs (Nest, Express), ReactJs, NextJs, Golang.
-
-As a DevSecOps Engineer, my skills include configuring and automating day to day processes in an optimized and scalable manner without compromising security along the way. In addition to this, I am proficient with handling infrastructure on premiss as well as on the cloud (AWS/GCP).
+Security Engineer with experience in Full Stack Web development and DevSecOps. Likes configuring, debugging, breaking and securing servers and applications with a strong focus on Cybersecurity practices.
 
 #### Book/Article Recommendations
 

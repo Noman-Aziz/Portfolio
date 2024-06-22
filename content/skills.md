@@ -1,6 +1,6 @@
 +++
 title = ""
-description = "NomanAziz | DevSecOps Engineer | AWS, GCP | Cyber Security Researcher"
+description = "NomanAziz | Security Engineer | MERN | DevSecOps | AWS Certified"
 date = "2023-08-04"
 aliases = ["skills","certifications"]
 [ author ]
@@ -18,9 +18,9 @@ aliases = ["skills","certifications"]
 #### Programming Languages
 ```
 - JavaScript/TypeScript
+- Python
 - Go
 - C/C++
-- Python
 - Solidity
 ```
 
@@ -58,32 +58,18 @@ aliases = ["skills","certifications"]
 - Arch
 - Ubuntu
 - Red Hat
-- Windows
 ```
 
 #### Cloud Providers
 ```
 - Amazon Web Services (AWS)
-- Google Cloud Platform (GCP)
 ```
 
-#### Containerization Tools
+#### Containerization & Orchestration Tools
 ```
 - Docker
 - LXC
-```
-
-#### Container Orchestration Tools
-```
 - Kubernetes
-    - Deployments
-    - Pods
-    - ConfigMaps & Secrets
-    - Volumes
-    - Stateful Sets
-    - Bare Metal Load Balancers
-    - Helm
-    - Helm Charts
 ```
 
 #### Logging & Monitoring
@@ -98,16 +84,19 @@ aliases = ["skills","certifications"]
 #### CI/CD Tools
 ```
 - Github Actions
-- GitLab
 - Jenkins
-- Hashicorp Vault
 ```
 
 #### Security Tools
 ```
-- Snyk
-- SonarQube
+- Snyk, SonarQube
+- Semgrep
+- OWASP Dependency-Check 
+- Trivy
+- GitLeaks
+- OWASP ZAP
 - MobSf
+- Wazuh
 ```
 
 #### Others
@@ -123,64 +112,9 @@ aliases = ["skills","certifications"]
 
 ---
 
-### Blue Teaming
-
----
-
-#### IDS/IPS
-```
-- Snort
-- Suricata
-- OSSEC
-```
-
-#### SIEM
-```
-- Wazuh
-```
-
-#### Digital Forensics & Incidence Response
-```
-- LiME
-- Volatility
-- Autopsy
-```
-
-#### Static Source Code Analysis
-```
-- Snyk
-- SonarQube
-```
-
-#### Malware Analysis
-```
-- Yara
-- CFF Explorer
-- Process Monitor
-- HashCalc
-- Exeinfo PE
-```
-
-#### Others
-```
-- Trivy
-- ModSecurity
-```
-
-<br><br>
-
----
-
 ### Ethical Hacking & Penetration Testing
 
 ---
-
-#### Reverse Engineering
-```
-- GDB
-- Ghidra
-- Immunity Debugger
-```
 
 #### Web Pentesting
 ```
@@ -191,6 +125,14 @@ aliases = ["skills","certifications"]
 - SqlMap
 - Nikto
 - Nessus
+```
+
+#### Reverse Engineering
+```
+- Binwalk
+- GDB
+- Ghidra
+- Immunity Debugger
 ```
 
 #### Network Pentesting
@@ -226,5 +168,5 @@ aliases = ["skills","certifications"]
 <br><br>
 
 <div class="date">
-Updated on August 4, 2023
+Updated on June 22, 2024
 </div>
