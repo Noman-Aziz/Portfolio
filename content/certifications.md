@@ -16,7 +16,7 @@ aliases = ["certifications"]
 - Issuer : AWS
 - Issued : December 18, 2023
 - Expiry : December 18, 2026
-- Verification URL : https://www.credly.com/badges/4f7449dc-78f9-4bd5-a9d5-fc0757a6a9de/public_url
+- Verification URL : https://www.credly.com/badges/44cfc008-d707-4b94-91ca-1d78ffae74a3/public_url
 ```
 
 #### AWS Certified Cloud Practitioner
@@ -24,7 +24,7 @@ aliases = ["certifications"]
 - Issuer : AWS
 - Issued : August 18, 2022
 - Expiry : December 18, 2026
-- Verification URL : https://www.credly.com/badges/e1405364-8f68-4db9-8e6c-f9749052c526/public_url
+- Verification URL : https://www.credly.com/badges/e95b013a-38e4-4d9c-bf10-100e7993d622/public_url
 ```
 
 #### Offensive Pentesting Learning Path
