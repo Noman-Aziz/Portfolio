@@ -11,6 +11,14 @@ aliases = ["certifications"]
 
 ---
 
+#### CKA: Certified Kubernetes Administrator
+```
+- Issuer : The Linux Foundation
+- Issued : June 29, 2024
+- Expiry : June 30, 2026
+- Verification URL : https://www.credly.com/badges/e89bfb99-9f02-4325-8dbb-347dd39c1e7e/public_url
+```
+
 #### AWS Certified Solutions Architect – Associate
 ```
 - Issuer : AWS
